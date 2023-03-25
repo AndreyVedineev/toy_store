@@ -6,3 +6,8 @@ def uppercase_first_letters(letters):
     """ Первая буква """
     return letters.capitalize()
 
+def liwer_str(letters):
+    """все маленькие"""
+    return letters.lower()
+
+
