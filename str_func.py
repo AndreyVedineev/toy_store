@@ -3,6 +3,6 @@ def all_capital_letters(letters):
     return letters.upper()
 
 def uppercase_first_letters(letters):
-    """ Первая буква заглавная"""
+    """ Первая буква """
     return letters.capitalize()
 
