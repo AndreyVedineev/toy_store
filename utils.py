@@ -1,2 +1,2 @@
 print("local")
-
+print('local')
